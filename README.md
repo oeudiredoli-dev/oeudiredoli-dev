@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 
   <br/>
@@ -68,17 +68,17 @@
 
 ---
 
-### 🚀 Pinned Research & Production Projects
+### 🚀 Production & Research Repositories
 
 | Repository | Focus & Architecture | Stack |
 | :--- | :--- | :--- |
-| [**inestsys-consulting**](https://github.com/oeudiredoli-dev/inestsys-consulting) | Enterprise web platform with real-time news aggregation, zero-trust infrastructure audits, and Three.js aura shaders. | `Next.js 14` `TypeScript` `Tailwind` `Framer Motion` |
-| [**fraud-autoencoder**](https://github.com/oeudiredoli-dev) | Deep variational autoencoder neural network for real-time transactional fraud anomaly scoring. | `Python` `PyTorch` `Scikit-Learn` `ROC 0.98` |
-| [**worldline-monitor**](https://github.com/oeudiredoli-dev) | Kernel telemetry probe monitoring distributed network latency and state divergence via eBPF. | `Python` `eBPF` `Linux Kernel` |
+| [**inestsys-consulting**](https://github.com/oeudiredoli-dev/inestsys-consulting) | Enterprise web platform with real-time intelligence feeds, zero-trust infrastructure briefs, and Three.js aura shaders. | `Next.js 14` `TypeScript` `Tailwind` `Framer Motion` |
+| [**detection-fraude-carte-credit-autoencodeur**](https://github.com/oeudiredoli-dev/detection-fraude-carte-credit-autoencodeur) | Deep variational autoencoder neural network for real-time credit card fraud detection & anomaly scoring. | `Python` `PyTorch` `Scikit-Learn` `ROC 0.98` |
+| [**online-retail-customer-segmentation**](https://github.com/oeudiredoli-dev/online-retail-customer-segmentation) | Unsupervised ML clustering & RFM customer behavior segmentation pipeline for e-commerce intelligence. | `Python` `Scikit-Learn` `Pandas` |
+| [**gestion_etudiant_java**](https://github.com/oeudiredoli-dev/gestion_etudiant_java) | Academic student management system with clean object-oriented architecture & persistent storage. | `Java` `OOP` |
 
 ---
 
 <div align="center">
   <sub>WorldLine Convergence: <b>1.048596%</b> • <i>"El Psy Kongroo"</i></sub>
 </div>
-
