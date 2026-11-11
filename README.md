@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="./profile-banner.jpg" width="100%" alt="Oeudire Doli WorldLine Banner" />
+  <img src="https://raw.githubusercontent.com/oeudiredoli-dev/inestsys-consulting/main/public/profile-banner.jpg" width="100%" alt="Oeudire Doli WorldLine Banner" />
 
   <br/><br/>
 
@@ -25,7 +25,11 @@
 
 ---
 
+<<<<<<< Updated upstream
 ###  Neural Stack & Technologies
+=======
+### Neural Stack & Technologies
+>>>>>>> Stashed changes
 
 <div align="center">
 
@@ -58,9 +62,21 @@
 
 ---
 
+<<<<<<< Updated upstream
 
 
 ###  Production & Research Repositories
+=======
+### Matrix Contribution Telemetry
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/oeudiredoli-dev/inestsys-consulting/main/public/matrix-contribution.svg" width="100%" alt="Matrix Contribution Telemetry" />
+</div>
+
+---
+
+### Production & Research Repositories
+>>>>>>> Stashed changes
 
 | Repository | Focus & Architecture | Stack |
 | :--- | :--- | :--- |
