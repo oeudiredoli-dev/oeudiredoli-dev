@@ -25,7 +25,7 @@
 
 ---
 
-### ⚡ Neural Stack & Technologies
+###  Neural Stack & Technologies
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 📊 GitHub Telemetry & Velocity
+###  GitHub Telemetry & Velocity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oeudiredoli-dev&show_icons=true&theme=radical&bg_color=0c0d12&title_color=ff2a55&icon_color=ff2a55&text_color=e5e7eb&border_color=25151c&hide_border=false" width="48%" alt="GitHub Stats" />
@@ -67,7 +67,7 @@
 
 ---
 
-### 🚀 Production & Research Repositories
+###  Production & Research Repositories
 
 | Repository | Focus & Architecture | Stack |
 | :--- | :--- | :--- |
