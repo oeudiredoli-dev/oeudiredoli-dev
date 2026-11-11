@@ -25,11 +25,7 @@
 
 ---
 
-<<<<<<< Updated upstream
-###  Neural Stack & Technologies
-=======
 ### Neural Stack & Technologies
->>>>>>> Stashed changes
 
 <div align="center">
 
@@ -62,11 +58,6 @@
 
 ---
 
-<<<<<<< Updated upstream
-
-
-###  Production & Research Repositories
-=======
 ### Matrix Contribution Telemetry
 
 <div align="center">
@@ -76,7 +67,6 @@
 ---
 
 ### Production & Research Repositories
->>>>>>> Stashed changes
 
 | Repository | Focus & Architecture | Stack |
 | :--- | :--- | :--- |
