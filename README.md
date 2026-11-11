@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://raw.githubusercontent.com/oeudiredoli-dev/inestsys-consulting/main/public/profile-banner.jpg" width="100%" alt="Oeudire Doli WorldLine Banner" />
+  <img src="./profile-banner.jpg" width="100%" alt="Oeudire Doli WorldLine Banner" />
 
   <br/><br/>
 
