@@ -11,7 +11,7 @@
   </a>
 
   <p align="center">
-    <b>CS & AI Student // Gatineau, Canada</b><br/>
+    <b>CS & AI Student // Software & Neural Systems</b><br/>
     <i>Architecting autonomous intelligence, zero-trust infrastructure & deep neural models.</i>
   </p>
 
@@ -19,7 +19,6 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Divergence-1.048596%25-ff2a55?style=for-the-badge&logoColor=white&labelColor=0c0d12" alt="Divergence" />
     <img src="https://img.shields.io/badge/Status-Active_Node-10b981?style=for-the-badge&logoColor=white&labelColor=0c0d12" alt="Status" />
-    <img src="https://img.shields.io/badge/Location-Gatineau%2C_CA-38bdf8?style=for-the-badge&logoColor=white&labelColor=0c0d12" alt="Location" />
   </p>
 
 </div>
