@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://raw.githubusercontent.com/oeudiredoli-dev/inestsys-consulting/main/public/profile-banner.jpg" width="100%" alt="Jackson WorldLine Banner" />
+  <img src="https://raw.githubusercontent.com/oeudiredoli-dev/inestsys-consulting/main/public/profile-banner.jpg" width="100%" alt="Oeudire Doli WorldLine Banner" />
 
   <br/><br/>
 
   <!-- Dynamic Typing Header SVG -->
   <a href="https://github.com/oeudiredoli-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2500&pause=1000&color=FF2A55&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jackson;CS+%26+Artificial+Intelligence+Researcher;Building+Autonomous+AI+Systems;WorldLine+Convergence%3A+1.048596%25" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2500&pause=1000&color=FF2A55&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Oeudire+Doli;CS+%26+Artificial+Intelligence+Researcher;Building+Autonomous+AI+Systems;WorldLine+Convergence%3A+1.048596%25" alt="Typing SVG" />
   </a>
 
   <p align="center">
